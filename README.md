@@ -7,6 +7,18 @@ A curated index of GitHub projects for AI-driven video production — ComfyUI wo
 
 ---
 
+## Scope
+
+**OUT OF SCOPE:** Models (LTX, Wan, HunyuanVideo, etc. as standalone weights/checkpoints).
+
+**FOCUS:** Tooling (MCPs, Agent Skills, CLIs, agentic frameworks) intended to provide reliable ways for AI agents — framework-agnostic and framework-specific — to perform video production tasks: generation, editing, cutting, montage, transcoding, captioning, etc.
+
+**DEFINING FEATURE:** Built **for agents with human users** — not for human UIs. Inclusion criterion is whether the project exposes a stable, agent-callable surface (skill, CLI, MCP, SDK) rather than a GUI workflow.
+
+**In scope:** skills, CLIs, MCPs, agent SDKs, agentic frameworks, ComfyUI integrations exposed to agents.
+
+---
+
 ## Table of Contents
 
 - [Agentic Video Frameworks](#agentic-video-frameworks)
