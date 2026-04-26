@@ -3,7 +3,7 @@
 A curated index of GitHub projects for AI-driven video production — ComfyUI workflows and skills, MCP servers, agent skill packs, and agentic video frameworks.
 
 **Last Updated:** 2026-04-26
-**Entries:** 35
+**Entries:** 36
 
 ---
 
@@ -281,6 +281,14 @@ Multi-modal Generative Media Skills for AI Agents (Claude Code, Cursor, Gemini C
 ![Stars](https://img.shields.io/github/stars/SamurAIGPT/Generative-Media-Skills?style=flat) ![Last commit](https://img.shields.io/github/last-commit/SamurAIGPT/Generative-Media-Skills?style=flat) ![Language](https://img.shields.io/github/languages/top/SamurAIGPT/Generative-Media-Skills?style=flat)
 
 ⭐ 3107 · Last updated: 2026-04-26 · [SamurAIGPT/Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills)
+
+### higgsfield-claude-skills
+
+19 Claude Code skills for Higgsfield AI — automate image generation, Seedance 2.0 video creation, and full UGC ad pipelines with Playwright browser automation
+
+![Stars](https://img.shields.io/github/stars/AKCodez/higgsfield-claude-skills?style=flat) ![Last commit](https://img.shields.io/github/last-commit/AKCodez/higgsfield-claude-skills?style=flat) ![Language](https://img.shields.io/github/languages/top/AKCodez/higgsfield-claude-skills?style=flat)
+
+⭐ 61 · Last updated: 2026-04-13 · [AKCodez/higgsfield-claude-skills](https://github.com/AKCodez/higgsfield-claude-skills)
 
 ### ltx-video
 

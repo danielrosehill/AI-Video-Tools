@@ -50,6 +50,20 @@
       "whisper-model"
     ]
   },
+  "AKCodez/higgsfield-claude-skills": {
+    "added_at": "2026-04-26",
+    "archived": false,
+    "categories": [
+      "Skills"
+    ],
+    "description": "19 Claude Code skills for Higgsfield AI \u2014 automate image generation, Seedance 2.0 video creation, and full UGC ad pipelines with Playwright browser automation",
+    "full_name": "AKCodez/higgsfield-claude-skills",
+    "html_url": "https://github.com/AKCodez/higgsfield-claude-skills",
+    "language": null,
+    "pushed_at": "2026-04-13T19:24:47Z",
+    "stargazers_count": 61,
+    "topics": []
+  },
   "D-Ogi/mcp-kdenlive": {
     "added_at": "2026-04-26",
     "archived": false,
