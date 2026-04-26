@@ -391,6 +391,20 @@
     "stargazers_count": 382,
     "topics": []
   },
+  "danielrosehill/Claude-Video-Production-Plugin": {
+    "added_at": "2026-04-26",
+    "archived": false,
+    "categories": [
+      "Skills"
+    ],
+    "description": "Claude Code plugin: video production workflow \u2014 transcode, organise, dedupe, ComfyUI generation, cover art, with editing/generative/cover-art variants.",
+    "full_name": "danielrosehill/Claude-Video-Production-Plugin",
+    "html_url": "https://github.com/danielrosehill/Claude-Video-Production-Plugin",
+    "language": null,
+    "pushed_at": "2026-04-19T13:01:26Z",
+    "stargazers_count": 0,
+    "topics": []
+  },
   "diffusionstudio/agent": {
     "added_at": "2026-04-26",
     "archived": false,

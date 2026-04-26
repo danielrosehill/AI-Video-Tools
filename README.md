@@ -3,7 +3,7 @@
 A curated index of GitHub projects for AI-driven video production — ComfyUI workflows and skills, MCP servers, agent skill packs, and agentic video frameworks.
 
 **Last Updated:** 2026-04-26
-**Entries:** 36
+**Entries:** 37
 
 ---
 
@@ -273,6 +273,14 @@ alibaba cloud skills，qwen ，wan and all skills
 ![Stars](https://img.shields.io/github/stars/cinience/alicloud-skills?style=flat) ![Last commit](https://img.shields.io/github/last-commit/cinience/alicloud-skills?style=flat) ![Language](https://img.shields.io/github/languages/top/cinience/alicloud-skills?style=flat)
 
 ⭐ 382 · Last updated: 2026-04-08 · [cinience/alicloud-skills](https://github.com/cinience/alicloud-skills)
+
+### Claude-Video-Production-Plugin
+
+Claude Code plugin: video production workflow — transcode, organise, dedupe, ComfyUI generation, cover art, with editing/generative/cover-art variants.
+
+![Stars](https://img.shields.io/github/stars/danielrosehill/Claude-Video-Production-Plugin?style=flat) ![Last commit](https://img.shields.io/github/last-commit/danielrosehill/Claude-Video-Production-Plugin?style=flat) ![Language](https://img.shields.io/github/languages/top/danielrosehill/Claude-Video-Production-Plugin?style=flat)
+
+⭐ 0 · Last updated: 2026-04-19 · [danielrosehill/Claude-Video-Production-Plugin](https://github.com/danielrosehill/Claude-Video-Production-Plugin)
 
 ### Generative-Media-Skills
 
