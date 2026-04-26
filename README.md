@@ -3,7 +3,7 @@
 A curated index of GitHub projects for AI-driven video production — ComfyUI workflows and skills, MCP servers, agent skill packs, and agentic video frameworks.
 
 **Last Updated:** 2026-04-26
-**Entries:** 34
+**Entries:** 35
 
 ---
 
@@ -289,6 +289,14 @@ LTX-2.3 video generation skill — setup, inference, prompting, ComfyUI integrat
 ![Stars](https://img.shields.io/github/stars/broomva/ltx-video?style=flat) ![Last commit](https://img.shields.io/github/last-commit/broomva/ltx-video?style=flat) ![Language](https://img.shields.io/github/languages/top/broomva/ltx-video?style=flat)
 
 ⭐ 4 · Last updated: 2026-03-27 · [broomva/ltx-video](https://github.com/broomva/ltx-video)
+
+### pexo-skills
+
+A collection of open-source Agent Skills for content creation — images, audio, and video.
+
+![Stars](https://img.shields.io/github/stars/pexoai/pexo-skills?style=flat) ![Last commit](https://img.shields.io/github/last-commit/pexoai/pexo-skills?style=flat) ![Language](https://img.shields.io/github/languages/top/pexoai/pexo-skills?style=flat)
+
+⭐ 731 · Last updated: 2026-04-09 · [pexoai/pexo-skills](https://github.com/pexoai/pexo-skills)
 
 ### skills
 

@@ -600,6 +600,20 @@
       "mcp-server"
     ]
   },
+  "pexoai/pexo-skills": {
+    "added_at": "2026-04-26",
+    "archived": false,
+    "categories": [
+      "Skills"
+    ],
+    "description": "A collection of open-source Agent Skills for content creation \u2014 images, audio, and video.",
+    "full_name": "pexoai/pexo-skills",
+    "html_url": "https://github.com/pexoai/pexo-skills",
+    "language": "JavaScript",
+    "pushed_at": "2026-04-09T11:58:46Z",
+    "stargazers_count": 731,
+    "topics": []
+  },
   "poseljacob/agentic-video-editor": {
     "added_at": "2026-04-26",
     "archived": false,
