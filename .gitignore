@@ -1,0 +1,6 @@
+/private/
+.env
+.env.*
+.DS_Store
+node_modules/
+__pycache__/

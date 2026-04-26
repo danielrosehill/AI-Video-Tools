@@ -1,0 +1,712 @@
+{
+  "21Pdontno/comfyui-workflow-skills": {
+    "added_at": "2026-04-26",
+    "archived": false,
+    "categories": [
+      "ComfyUI"
+    ],
+    "description": "**ComfyUI Workflow Master** is an open-source skill module designed for AI agent platforms (such as [OpenClaw], [Claude Code], or any agent framework that supports skill-based architectures). It enables an AI agent to **fully automate the ComfyUI workflow lifecycle**:",
+    "full_name": "21Pdontno/comfyui-workflow-skills",
+    "html_url": "https://github.com/21Pdontno/comfyui-workflow-skills",
+    "language": "Python",
+    "license": "MIT",
+    "pushed_at": "2026-03-16T17:28:57Z",
+    "stargazers_count": 2,
+    "topics": []
+  },
+  "AEmotionStudio/ComfyUI-FFMPEGA": {
+    "added_at": "2026-04-26",
+    "archived": false,
+    "categories": [
+      "ComfyUI"
+    ],
+    "description": "Intelligent FFMPEG agent node for ComfyUI - transforms natural language video editing prompts into automated video transformations",
+    "full_name": "AEmotionStudio/ComfyUI-FFMPEGA",
+    "html_url": "https://github.com/AEmotionStudio/ComfyUI-FFMPEGA",
+    "language": "Python",
+    "license": "GPL-3.0",
+    "pushed_at": "2026-04-26T01:50:52Z",
+    "stargazers_count": 7,
+    "topics": [
+      "aemotionstudio",
+      "agent",
+      "agentic",
+      "audio",
+      "audio-editing",
+      "auto-masking",
+      "auto-transcription",
+      "comfyui",
+      "comfyui-agent",
+      "ffmpeg",
+      "masking",
+      "natural-language",
+      "natural-language-processing",
+      "sam3",
+      "sam3-model",
+      "transcription",
+      "video",
+      "video-editor",
+      "whisper-ai",
+      "whisper-model"
+    ]
+  },
+  "D-Ogi/mcp-kdenlive": {
+    "added_at": "2026-04-26",
+    "archived": false,
+    "categories": [
+      "MCPs"
+    ],
+    "description": "MCP server for Kdenlive \u2014 wraps kdenlive-api for Claude Code and other LLM agents",
+    "full_name": "D-Ogi/mcp-kdenlive",
+    "html_url": "https://github.com/D-Ogi/mcp-kdenlive",
+    "language": "Python",
+    "license": null,
+    "pushed_at": "2026-02-04T01:55:12Z",
+    "stargazers_count": 5,
+    "topics": []
+  },
+  "GVCLab/CutClaw": {
+    "added_at": "2026-04-26",
+    "archived": false,
+    "categories": [
+      "Agentic Video Frameworks"
+    ],
+    "description": "Agentic Hours-Long Video Editing via Music Synchronization",
+    "full_name": "GVCLab/CutClaw",
+    "html_url": "https://github.com/GVCLab/CutClaw",
+    "language": "Python",
+    "license": null,
+    "pushed_at": "2026-04-17T06:32:08Z",
+    "stargazers_count": 755,
+    "topics": []
+  },
+  "HKUDS/ViMax": {
+    "added_at": "2026-04-26",
+    "archived": false,
+    "categories": [
+      "Agentic Video Frameworks"
+    ],
+    "description": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
+    "full_name": "HKUDS/ViMax",
+    "html_url": "https://github.com/HKUDS/ViMax",
+    "language": "Python",
+    "license": "MIT",
+    "pushed_at": "2026-03-29T05:31:51Z",
+    "stargazers_count": 2713,
+    "topics": [
+      "agentic-aigc",
+      "video-generation"
+    ]
+  },
+  "HuangYuChuh/ComfyUI_Skill_CLI": {
+    "added_at": "2026-04-26",
+    "archived": false,
+    "categories": [
+      "ComfyUI"
+    ],
+    "description": "Agent-friendly CLI for managing and executing ComfyUI workflow skills",
+    "full_name": "HuangYuChuh/ComfyUI_Skill_CLI",
+    "html_url": "https://github.com/HuangYuChuh/ComfyUI_Skill_CLI",
+    "language": "Python",
+    "license": "MIT",
+    "pushed_at": "2026-04-22T06:09:08Z",
+    "stargazers_count": 9,
+    "topics": []
+  },
+  "HuangYuChuh/ComfyUI_Skills_OpenClaw": {
+    "added_at": "2026-04-26",
+    "archived": false,
+    "categories": [
+      "ComfyUI"
+    ],
+    "description": "Agent-friendly ComfyUI workflow skills for OpenClaw, Hermes Agent, Codex, and Claude Code. Turn any ComfyUI workflow into a callable AI agent skill via CLI.",
+    "full_name": "HuangYuChuh/ComfyUI_Skills_OpenClaw",
+    "html_url": "https://github.com/HuangYuChuh/ComfyUI_Skills_OpenClaw",
+    "language": "Python",
+    "license": "MIT",
+    "pushed_at": "2026-04-21T05:23:12Z",
+    "stargazers_count": 241,
+    "topics": [
+      "agentskills",
+      "ai-agent",
+      "ai-art",
+      "claude-code",
+      "comfyui",
+      "flux",
+      "hermes-agent",
+      "image-generation",
+      "openclaw",
+      "skill",
+      "stable-diffusion",
+      "workflow-automation"
+    ]
+  },
+  "Iamkewl/Davinci-MCP": {
+    "added_at": "2026-04-26",
+    "archived": false,
+    "categories": [
+      "MCPs"
+    ],
+    "description": "An OpenSource mcp for Da Vinci Resolve, to allow agents to automatically compile, edit, and direct clips",
+    "full_name": "Iamkewl/Davinci-MCP",
+    "html_url": "https://github.com/Iamkewl/Davinci-MCP",
+    "language": "Python",
+    "license": "MIT",
+    "pushed_at": "2026-04-02T08:01:38Z",
+    "stargazers_count": 0,
+    "topics": []
+  },
+  "MCKRUZ/ComfyUI-Expert": {
+    "added_at": "2026-04-26",
+    "archived": false,
+    "categories": [
+      "ComfyUI"
+    ],
+    "description": "Session-scoped Claude Code agent for ComfyUI video production \u2014 12 specialized skills for image gen, video, voice cloning, LoRA training, and publishing",
+    "full_name": "MCKRUZ/ComfyUI-Expert",
+    "html_url": "https://github.com/MCKRUZ/ComfyUI-Expert",
+    "language": "Shell",
+    "license": "MIT",
+    "pushed_at": "2026-03-18T16:42:41Z",
+    "stargazers_count": 49,
+    "topics": [
+      "ai-agents",
+      "ai-video",
+      "claude-code",
+      "comfyui",
+      "flux",
+      "lora-training",
+      "stable-diffusion",
+      "video-generation",
+      "voice-cloning",
+      "wan-video"
+    ]
+  },
+  "MusfiqurRahma/comfyui-custom-node-skills": {
+    "added_at": "2026-04-26",
+    "archived": false,
+    "categories": [
+      "ComfyUI"
+    ],
+    "description": "Provide Claude Code skills for building and managing ComfyUI custom nodes using V3 and V1 APIs with detailed node system knowledge.",
+    "full_name": "MusfiqurRahma/comfyui-custom-node-skills",
+    "html_url": "https://github.com/MusfiqurRahma/comfyui-custom-node-skills",
+    "language": "Python",
+    "license": null,
+    "pushed_at": "2026-04-26T16:44:20Z",
+    "stargazers_count": 0,
+    "topics": [
+      "builder",
+      "claude",
+      "code",
+      "comfyui",
+      "custom",
+      "deterministic",
+      "dictionary",
+      "hash",
+      "procedural",
+      "profile",
+      "skill",
+      "zerobytes"
+    ]
+  },
+  "Pastorsimon1798/mcp-video": {
+    "added_at": "2026-04-26",
+    "archived": false,
+    "categories": [
+      "MCPs"
+    ],
+    "description": "Video editing MCP server for AI agents. 83 tools, 858 tests collected, 3 interfaces. Works with Claude Code, Cursor, and any MCP client. Local, fast, free.",
+    "full_name": "Pastorsimon1798/mcp-video",
+    "html_url": "https://github.com/Pastorsimon1798/mcp-video",
+    "language": "Python",
+    "license": "Apache-2.0",
+    "pushed_at": "2026-04-23T07:03:00Z",
+    "stargazers_count": 5,
+    "topics": [
+      "agent-tools",
+      "ai-agents",
+      "ai-video",
+      "animation",
+      "claude",
+      "claude-code",
+      "cursor",
+      "ffmpeg",
+      "ffmpeg-wrapper",
+      "mcp",
+      "mcp-server",
+      "mcp-tools",
+      "model-context-protocol",
+      "python",
+      "python-library",
+      "remotion",
+      "remotion-video",
+      "video",
+      "video-automation",
+      "video-editing"
+    ]
+  },
+  "Wan-Video/Wan-skills": {
+    "added_at": "2026-04-26",
+    "archived": false,
+    "categories": [
+      "Skills"
+    ],
+    "description": "AI Agent Skills for Wan \u2014 Enable your AI Agent to easily leverage Wan's AIGC capabilities.",
+    "full_name": "Wan-Video/Wan-skills",
+    "html_url": "https://github.com/Wan-Video/Wan-skills",
+    "language": "Python",
+    "license": "Apache-2.0",
+    "pushed_at": "2026-04-17T04:58:15Z",
+    "stargazers_count": 39,
+    "topics": []
+  },
+  "artokun/comfyui-mcp": {
+    "added_at": "2026-04-26",
+    "archived": false,
+    "categories": [
+      "MCPs"
+    ],
+    "description": "ComfyUI MCP server + Claude Code plugin \u2014 workflow execution, visualization, composition, model management, and skill generation",
+    "full_name": "artokun/comfyui-mcp",
+    "html_url": "https://github.com/artokun/comfyui-mcp",
+    "language": "TypeScript",
+    "license": null,
+    "pushed_at": "2026-04-21T04:34:53Z",
+    "stargazers_count": 52,
+    "topics": []
+  },
+  "broomva/ltx-video": {
+    "added_at": "2026-04-26",
+    "archived": false,
+    "categories": [
+      "Skills"
+    ],
+    "description": "LTX-2.3 video generation skill \u2014 setup, inference, prompting, ComfyUI integration for Lightricks 22B DiT audio-video model",
+    "full_name": "broomva/ltx-video",
+    "html_url": "https://github.com/broomva/ltx-video",
+    "language": "Python",
+    "license": null,
+    "pushed_at": "2026-03-27T16:25:16Z",
+    "stargazers_count": 4,
+    "topics": []
+  },
+  "calesthio/OpenMontage": {
+    "added_at": "2026-04-26",
+    "archived": false,
+    "categories": [
+      "Agentic Video Frameworks"
+    ],
+    "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+    "full_name": "calesthio/OpenMontage",
+    "html_url": "https://github.com/calesthio/OpenMontage",
+    "language": "Python",
+    "license": "AGPL-3.0",
+    "pushed_at": "2026-04-24T06:30:57Z",
+    "stargazers_count": 3171,
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "ai",
+      "claude",
+      "copilot",
+      "cursor",
+      "elevenlabs",
+      "ffmpeg",
+      "flux",
+      "image-generation",
+      "open-source",
+      "openai",
+      "python",
+      "remotion",
+      "stable-diffusion",
+      "text-to-speech",
+      "text-to-video",
+      "video-generation",
+      "video-production"
+    ]
+  },
+  "cinience/alicloud-skills": {
+    "added_at": "2026-04-26",
+    "archived": false,
+    "categories": [
+      "Skills"
+    ],
+    "description": "alibaba cloud skills\uff0cqwen \uff0cwan and all skills",
+    "full_name": "cinience/alicloud-skills",
+    "html_url": "https://github.com/cinience/alicloud-skills",
+    "language": "Python",
+    "license": "MIT",
+    "pushed_at": "2026-04-08T23:34:47Z",
+    "stargazers_count": 382,
+    "topics": []
+  },
+  "diffusionstudio/agent": {
+    "added_at": "2026-04-26",
+    "archived": false,
+    "categories": [
+      "Agentic Video Frameworks"
+    ],
+    "description": "The agentic video editing framework",
+    "full_name": "diffusionstudio/agent",
+    "html_url": "https://github.com/diffusionstudio/agent",
+    "language": "Python",
+    "license": "MIT",
+    "pushed_at": "2025-02-10T16:03:04Z",
+    "stargazers_count": 244,
+    "topics": []
+  },
+  "garvit-010/Creator-Catalyst": {
+    "added_at": "2026-04-26",
+    "archived": false,
+    "categories": [
+      "Agentic Video Frameworks"
+    ],
+    "description": "AI Content Repurpose Agent using long form Videos",
+    "full_name": "garvit-010/Creator-Catalyst",
+    "html_url": "https://github.com/garvit-010/Creator-Catalyst",
+    "language": "Python",
+    "license": "MIT",
+    "pushed_at": "2026-02-07T18:02:09Z",
+    "stargazers_count": 0,
+    "topics": [
+      "agentic-ai",
+      "creator-tools",
+      "ffmpeg",
+      "gemini-sdk",
+      "imagegeneration",
+      "localdevelopment",
+      "multimodel",
+      "ollama",
+      "openai-sdk",
+      "python3",
+      "streamlit"
+    ]
+  },
+  "hachiware-labs/kyarakuri": {
+    "added_at": "2026-04-26",
+    "archived": false,
+    "categories": [
+      "ComfyUI"
+    ],
+    "description": "Character Creation Skills With ComfyUI",
+    "full_name": "hachiware-labs/kyarakuri",
+    "html_url": "https://github.com/hachiware-labs/kyarakuri",
+    "language": null,
+    "license": null,
+    "pushed_at": "2026-04-12T12:15:36Z",
+    "stargazers_count": 0,
+    "topics": []
+  },
+  "heshengtao/comfyui_LLM_party": {
+    "added_at": "2026-04-26",
+    "archived": false,
+    "categories": [
+      "ComfyUI"
+    ],
+    "description": "LLM Agent Framework in ComfyUI includes MCP sever, Omost,GPT-sovits, ChatTTS,GOT-OCR2.0, and FLUX prompt nodes,access to Feishu,discord,and adapts to all llms with similar openai / aisuite interfaces, such as o1,ollama, gemini, grok, qwen, GLM, deepseek, kimi,doubao. Adapted to local llms, vlm, gguf such as llama-3.3 Janus-Pro, Linkage graphRAG",
+    "full_name": "heshengtao/comfyui_LLM_party",
+    "html_url": "https://github.com/heshengtao/comfyui_LLM_party",
+    "language": "Python",
+    "license": "AGPL-3.0",
+    "pushed_at": "2026-03-08T17:40:45Z",
+    "stargazers_count": 2204,
+    "topics": [
+      "agent",
+      "comfyui",
+      "dify",
+      "flux",
+      "gemini",
+      "gguf",
+      "gpt-sovits",
+      "graphrag",
+      "janus-pro",
+      "linux",
+      "llama",
+      "mcp",
+      "o1",
+      "ocr",
+      "ollama",
+      "omost",
+      "openai",
+      "vlm",
+      "workflow"
+    ]
+  },
+  "heygen-com/hyperframes": {
+    "added_at": "2026-04-26",
+    "archived": false,
+    "categories": [
+      "Agentic Video Frameworks"
+    ],
+    "description": "Write HTML. Render video. Built for agents.",
+    "full_name": "heygen-com/hyperframes",
+    "html_url": "https://github.com/heygen-com/hyperframes",
+    "language": "TypeScript",
+    "license": "Apache-2.0",
+    "pushed_at": "2026-04-26T15:42:04Z",
+    "stargazers_count": 11156,
+    "topics": [
+      "ai",
+      "animation",
+      "ffmpeg",
+      "framework",
+      "gsap",
+      "html",
+      "mcp",
+      "puppeteer",
+      "rendering",
+      "typescript",
+      "video"
+    ]
+  },
+  "heygen-com/skills": {
+    "added_at": "2026-04-26",
+    "archived": false,
+    "categories": [
+      "Skills"
+    ],
+    "description": "HeyGen AI agent skills \u2014 avatar creation and video production via the v3 Video Agent pipeline",
+    "full_name": "heygen-com/skills",
+    "html_url": "https://github.com/heygen-com/skills",
+    "language": "Shell",
+    "license": "MIT",
+    "pushed_at": "2026-04-26T06:43:53Z",
+    "stargazers_count": 179,
+    "topics": []
+  },
+  "jau123/MeiGen-AI-Design-MCP": {
+    "added_at": "2026-04-26",
+    "archived": false,
+    "categories": [
+      "MCPs"
+    ],
+    "description": "MeiGen-AI-Design-MCP \u2014 Turn Claude Code / OpenClaw into your local Lovart. Local ComfyUI, 1,400+ prompt library, multi-direction parallel generation.",
+    "full_name": "jau123/MeiGen-AI-Design-MCP",
+    "html_url": "https://github.com/jau123/MeiGen-AI-Design-MCP",
+    "language": "TypeScript",
+    "license": "MIT",
+    "pushed_at": "2026-04-23T16:30:09Z",
+    "stargazers_count": 689,
+    "topics": [
+      "ai-image-generation",
+      "claude",
+      "claude-code",
+      "comfyui",
+      "lovart",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "openclaw",
+      "prompt-engineering"
+    ]
+  },
+  "jtydhr88/comfyui-custom-node-skills": {
+    "added_at": "2026-04-26",
+    "archived": false,
+    "categories": [
+      "ComfyUI"
+    ],
+    "description": "A curated collection of [Claude Code skills](https://docs.anthropic.com/en/docs/claude-code/skills) for developing ComfyUI custom nodes. These skills give Claude comprehensive knowledge of the ComfyUI node system, covering both the V3 (recommended) and V1 (legacy) APIs.",
+    "full_name": "jtydhr88/comfyui-custom-node-skills",
+    "html_url": "https://github.com/jtydhr88/comfyui-custom-node-skills",
+    "language": "Python",
+    "license": null,
+    "pushed_at": "2026-04-24T14:12:41Z",
+    "stargazers_count": 177,
+    "topics": []
+  },
+  "kevinbadi/hyperedit": {
+    "added_at": "2026-04-26",
+    "archived": false,
+    "categories": [
+      "Agentic Video Frameworks"
+    ],
+    "description": "AI-powered video editor with FFMPEG, Remotion, & Obsidian Agents Baked in",
+    "full_name": "kevinbadi/hyperedit",
+    "html_url": "https://github.com/kevinbadi/hyperedit",
+    "language": "TypeScript",
+    "license": null,
+    "pushed_at": "2026-04-15T01:04:49Z",
+    "stargazers_count": 125,
+    "topics": []
+  },
+  "kkroening/ffmpeg-python": {
+    "added_at": "2026-04-26",
+    "archived": false,
+    "categories": [
+      "Agentic Video Frameworks"
+    ],
+    "description": "Python bindings for FFmpeg - with complex filtering support",
+    "full_name": "kkroening/ffmpeg-python",
+    "html_url": "https://github.com/kkroening/ffmpeg-python",
+    "language": "Python",
+    "license": "Apache-2.0",
+    "pushed_at": "2024-08-04T00:07:08Z",
+    "stargazers_count": 10993,
+    "topics": []
+  },
+  "lalanikarim/comfy-mcp-server": {
+    "added_at": "2026-04-26",
+    "archived": false,
+    "categories": [
+      "MCPs"
+    ],
+    "description": "A server using FastMCP framework to generate images based on prompts via a remote Comfy server.",
+    "full_name": "lalanikarim/comfy-mcp-server",
+    "html_url": "https://github.com/lalanikarim/comfy-mcp-server",
+    "language": "Python",
+    "license": "MIT",
+    "pushed_at": "2025-03-02T22:34:52Z",
+    "stargazers_count": 41,
+    "topics": [
+      "comfyui",
+      "mcp-server"
+    ]
+  },
+  "poseljacob/agentic-video-editor": {
+    "added_at": "2026-04-26",
+    "archived": false,
+    "categories": [
+      "Agentic Video Frameworks"
+    ],
+    "description": "AI-powered video editor that turns raw footage and a creative brief into a polished ad using an ensemble of AI agents (Google Gemini + FFmpeg)",
+    "full_name": "poseljacob/agentic-video-editor",
+    "html_url": "https://github.com/poseljacob/agentic-video-editor",
+    "language": "Python",
+    "license": "MIT",
+    "pushed_at": "2026-04-14T20:09:43Z",
+    "stargazers_count": 366,
+    "topics": []
+  },
+  "swimmingkiim/video-edit-tools": {
+    "added_at": "2026-04-26",
+    "archived": false,
+    "categories": [
+      "Agentic Video Frameworks"
+    ],
+    "description": "Deterministic video editing SDK for AI agents. Ships with MCP tools.",
+    "full_name": "swimmingkiim/video-edit-tools",
+    "html_url": "https://github.com/swimmingkiim/video-edit-tools",
+    "language": "TypeScript",
+    "license": "MIT",
+    "pushed_at": "2026-03-15T04:49:47Z",
+    "stargazers_count": 5,
+    "topics": [
+      "ai-agent",
+      "claude",
+      "editing",
+      "ffmpeg",
+      "mcp",
+      "typescript",
+      "video"
+    ]
+  },
+  "twwch/comfyui-workflow-skill": {
+    "added_at": "2026-04-26",
+    "archived": false,
+    "categories": [
+      "ComfyUI"
+    ],
+    "description": "Natural language \u2192 ComfyUI workflow JSON. 34 built-in templates, 360+ node definitions, auto model download. Supports txt2img,       img2img, txt2vid, img2vid, audio, 3D generation across SD1.5/SDXL/SD3/FLUX/Wan2.2/HunyuanVideo/LTXV/Mochi/Cosmos + LLM integration.    Works as a skill for Claude Code, Cursor, and other AI coding agents.  ",
+    "full_name": "twwch/comfyui-workflow-skill",
+    "html_url": "https://github.com/twwch/comfyui-workflow-skill",
+    "language": null,
+    "license": null,
+    "pushed_at": "2026-04-09T01:04:12Z",
+    "stargazers_count": 186,
+    "topics": []
+  },
+  "video-db/Director": {
+    "added_at": "2026-04-26",
+    "archived": false,
+    "categories": [
+      "Agentic Video Frameworks"
+    ],
+    "description": "AI video agents framework for next-gen video interactions and workflows.",
+    "full_name": "video-db/Director",
+    "html_url": "https://github.com/video-db/Director",
+    "language": "Python",
+    "license": "MIT",
+    "pushed_at": "2026-01-23T15:34:16Z",
+    "stargazers_count": 1367,
+    "topics": [
+      "agent",
+      "agent-framework",
+      "ai-agents",
+      "framework",
+      "llm",
+      "openai",
+      "rag",
+      "search",
+      "text-to-video",
+      "video-editing",
+      "video-processing",
+      "videodb"
+    ]
+  },
+  "vulca-org/vulca": {
+    "added_at": "2026-04-26",
+    "archived": false,
+    "categories": [
+      "Skills"
+    ],
+    "description": "Agent-native image-editing SDK for Claude Code. 21 MCP tools + /decompose skill \u2014 semantic layer splits, L1\u2013L5 cultural scoring, region inpaint. Powered by ComfyUI, Gemini, or mock.",
+    "full_name": "vulca-org/vulca",
+    "html_url": "https://github.com/vulca-org/vulca",
+    "language": "Python",
+    "license": "Apache-2.0",
+    "pushed_at": "2026-04-26T13:41:14Z",
+    "stargazers_count": 7,
+    "topics": [
+      "agent-native",
+      "ai",
+      "anthropic",
+      "art",
+      "claude-code",
+      "claude-mcp",
+      "comfyui",
+      "cultural",
+      "evaluation",
+      "mcp",
+      "multi-agent",
+      "python",
+      "sdk",
+      "vlm"
+    ]
+  },
+  "zanllp/infinite-image-browsing": {
+    "added_at": "2026-04-26",
+    "archived": false,
+    "categories": [
+      "ComfyUI"
+    ],
+    "description": "A full-featured image/video management app with AI-powered organization and semantic search. Supports metadata from  SD-webui, ComfyUI, Fooocus, NovelAI, StableSwarmUI, and more. Available as standalone app, SD-webui extension, or library.",
+    "full_name": "zanllp/infinite-image-browsing",
+    "html_url": "https://github.com/zanllp/infinite-image-browsing",
+    "language": "Vue",
+    "license": "MIT",
+    "pushed_at": "2026-04-08T17:03:02Z",
+    "stargazers_count": 1292,
+    "topics": [
+      "audio",
+      "comfyui",
+      "extension",
+      "file-explorer",
+      "file-server",
+      "fooocus",
+      "gallery",
+      "image-previewer",
+      "novelai",
+      "previewer",
+      "remote-explorer",
+      "skills",
+      "stable-diffusion-webui",
+      "stable-diffusion-webui-plugin",
+      "stable-swarm-ui",
+      "stableswarmui",
+      "video",
+      "video-player"
+    ]
+  }
+}
