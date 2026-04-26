@@ -3,7 +3,7 @@
 A curated index of GitHub projects for AI-driven video production — ComfyUI workflows and skills, MCP servers, agent skill packs, and agentic video frameworks.
 
 **Last Updated:** 2026-04-26
-**Entries:** 33
+**Entries:** 34
 
 ---
 
@@ -273,6 +273,14 @@ alibaba cloud skills，qwen ，wan and all skills
 ![Stars](https://img.shields.io/github/stars/cinience/alicloud-skills?style=flat) ![Last commit](https://img.shields.io/github/last-commit/cinience/alicloud-skills?style=flat) ![Language](https://img.shields.io/github/languages/top/cinience/alicloud-skills?style=flat)
 
 ⭐ 382 · Last updated: 2026-04-08 · [cinience/alicloud-skills](https://github.com/cinience/alicloud-skills)
+
+### Generative-Media-Skills
+
+Multi-modal Generative Media Skills for AI Agents (Claude Code, Cursor, Gemini CLI). High-quality image, video, and audio generation powered by muapi.ai.
+
+![Stars](https://img.shields.io/github/stars/SamurAIGPT/Generative-Media-Skills?style=flat) ![Last commit](https://img.shields.io/github/last-commit/SamurAIGPT/Generative-Media-Skills?style=flat) ![Language](https://img.shields.io/github/languages/top/SamurAIGPT/Generative-Media-Skills?style=flat)
+
+⭐ 3107 · Last updated: 2026-04-26 · [SamurAIGPT/Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills)
 
 ### ltx-video
 

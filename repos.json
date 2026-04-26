@@ -246,6 +246,42 @@
       "video-editing"
     ]
   },
+  "SamurAIGPT/Generative-Media-Skills": {
+    "added_at": "2026-04-26",
+    "archived": false,
+    "categories": [
+      "Skills"
+    ],
+    "description": "Multi-modal Generative Media Skills for AI Agents (Claude Code, Cursor, Gemini CLI). High-quality image, video, and audio generation powered by muapi.ai.",
+    "full_name": "SamurAIGPT/Generative-Media-Skills",
+    "html_url": "https://github.com/SamurAIGPT/Generative-Media-Skills",
+    "language": "Shell",
+    "license": "MIT",
+    "pushed_at": "2026-04-26T02:14:52Z",
+    "stargazers_count": 3107,
+    "topics": [
+      "agent-tools",
+      "ai-agents",
+      "ai-art",
+      "ai-music",
+      "ai-video",
+      "claude-code",
+      "flux",
+      "generative-ai",
+      "image-generation",
+      "kling",
+      "mcp",
+      "midjourney",
+      "muapi",
+      "multimodal-ai",
+      "skills",
+      "suno",
+      "text-to-audio",
+      "text-to-image",
+      "text-to-video",
+      "video-generation"
+    ]
+  },
   "Wan-Video/Wan-skills": {
     "added_at": "2026-04-26",
     "archived": false,
