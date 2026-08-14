@@ -102,6 +102,14 @@ World's first open-source, agentic video production system. 12 pipelines, 52 too
 
 ⭐ 3171 · Last updated: 2026-04-24 · [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
 
+### Orkas-VideoStudio
+
+Turn your coding agent into a video studio: describe a video in plain language, and your agent writes the timeline and produces the file.
+
+![Stars](https://img.shields.io/github/stars/Orkas-AI/Orkas-VideoStudio?style=flat) ![Last commit](https://img.shields.io/github/last-commit/Orkas-AI/Orkas-VideoStudio?style=flat) ![Language](https://img.shields.io/github/languages/top/Orkas-AI/Orkas-VideoStudio?style=flat)
+
+⭐ 522 · Last updated: 2026-08-12 · [Orkas-AI/Orkas-VideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)
+
 ### video-edit-tools
 
 Deterministic video editing SDK for AI agents. Ships with MCP tools.
