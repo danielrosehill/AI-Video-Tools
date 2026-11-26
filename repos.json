@@ -1,4 +1,40 @@
 {
+  "ABO3SKRALMASAOODI/valmera-mcp": {
+    "added_at": "2026-11-26",
+    "archived": false,
+    "categories": [
+      "MCPs"
+    ],
+    "description": "Hosted MCP connector for editing uploaded footage, reviewing revisions and exporting MP4s. The repository includes MIT-licensed skills. Editing requires a paid Valmera account.",
+    "full_name": "ABO3SKRALMASAOODI/valmera-mcp",
+    "html_url": "https://github.com/ABO3SKRALMASAOODI/valmera-mcp",
+    "language": "Python",
+    "license": "MIT",
+    "pushed_at": "2026-11-25T23:33:05Z",
+    "stargazers_count": 0,
+    "topics": [
+      "agent-skills",
+      "ai-agent",
+      "ai-video-editing",
+      "ai-video-editor",
+      "captions",
+      "claude",
+      "claude-code",
+      "claude-plugin",
+      "claude-video-editing",
+      "codex",
+      "cursor",
+      "ffmpeg",
+      "gemini-cli",
+      "gemini-cli-extension",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "transcription",
+      "video-editing",
+      "video-editor"
+    ]
+  },
   "21Pdontno/comfyui-workflow-skills": {
     "added_at": "2026-04-26",
     "archived": false,

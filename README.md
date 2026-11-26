@@ -2,8 +2,8 @@
 
 A curated index of GitHub projects for AI-driven video production — ComfyUI workflows and skills, MCP servers, agent skill packs, and agentic video frameworks.
 
-**Last Updated:** 2026-04-26
-**Entries:** 37
+**Last Updated:** 2026-11-26
+**Entries:** 38
 
 ---
 
@@ -261,6 +261,14 @@ MeiGen-AI-Design-MCP — Turn Claude Code / OpenClaw into your local Lovart. Loc
 ![Stars](https://img.shields.io/github/stars/jau123/MeiGen-AI-Design-MCP?style=flat) ![Last commit](https://img.shields.io/github/last-commit/jau123/MeiGen-AI-Design-MCP?style=flat) ![Language](https://img.shields.io/github/languages/top/jau123/MeiGen-AI-Design-MCP?style=flat)
 
 ⭐ 689 · Last updated: 2026-04-23 · [jau123/MeiGen-AI-Design-MCP](https://github.com/jau123/MeiGen-AI-Design-MCP)
+
+### valmera-mcp
+
+Hosted MCP connector for editing uploaded footage, reviewing revisions and exporting MP4s. The repository includes MIT-licensed skills. Editing requires a paid Valmera account. [Recorded example](https://valmera.io/examples/rough-cut-revision).
+
+![Stars](https://img.shields.io/github/stars/ABO3SKRALMASAOODI/valmera-mcp?style=flat) ![Last commit](https://img.shields.io/github/last-commit/ABO3SKRALMASAOODI/valmera-mcp?style=flat) ![Language](https://img.shields.io/github/languages/top/ABO3SKRALMASAOODI/valmera-mcp?style=flat)
+
+⭐ 0 · Last updated: 2026-11-25 · [ABO3SKRALMASAOODI/valmera-mcp](https://github.com/ABO3SKRALMASAOODI/valmera-mcp)
 
 ---
 
